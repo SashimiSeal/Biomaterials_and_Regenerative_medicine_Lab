@@ -101,7 +101,7 @@ h4{
   }
 
   .homesectiontwoandthree{
-    display: flex;
+/*     display: flex; */
     justify-content: space-evenly;
 
   }
