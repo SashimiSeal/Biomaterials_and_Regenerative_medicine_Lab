@@ -86,8 +86,8 @@ h4{
   }
 
    .image-container2 img {
-    width: auto;
-    height: 5rem;
+    width: fit-content;
+    height: auto;
     border-radius: 2px;
     display: block;
   }
