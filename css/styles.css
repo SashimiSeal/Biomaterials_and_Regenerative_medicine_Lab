@@ -84,7 +84,14 @@ h4{
     border-radius: 5px;
     display: block;
   }
-  
+
+   .image-container2 img {
+    width: auto;
+    height: 5rem;
+    border-radius: 2px;
+    display: block;
+  }
+
   .text-container {
     flex: 1; /* Takes up remaining space */
   }
