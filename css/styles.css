@@ -118,10 +118,6 @@ h4{
     text-decoration: none;
 }
 
-ul{
-    list-style: none;
-}
-
 nav ul {
     display: flex;
     list-style: none;
@@ -145,6 +141,14 @@ nav ul li a:hover {
     color: #493df3;
 }
 
+footer ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 3rem;
+}
+
 footer ul li a{
     color: rgb(255, 255, 255);
     text-decoration: none;
@@ -153,6 +157,14 @@ footer ul li a{
 
 footer ul li a:hover {
     color: #493df3;
+}
+
+main ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 3rem;
 }
 
 main ul li a{
