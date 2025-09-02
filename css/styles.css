@@ -141,6 +141,22 @@ nav ul li a:hover {
     color: #493df3;
 }
 
+footer ul li a{
+    color: rgb(255, 255, 255);
+}
+
+footer ul li a:hover {
+    color: #493df3;
+}
+
+main ul li a{
+    color: #fdfdfd;
+}
+
+main ul li a:hover {
+    color: #493df3;
+}
+
 footer {
     padding-left: 2rem;
     padding-right: 2rem;
