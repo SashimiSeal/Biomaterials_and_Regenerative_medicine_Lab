@@ -77,7 +77,15 @@ h4{
   .image-container {
     flex: 0 0 40%; /* Takes up 40% of the section width, doesn't grow or shrink */
   /* } */ 
-  
+
+  .topheader{
+    font-size: 2rem;
+    padding: 1rem;
+    padding-left: 8rem;
+    padding-top: 1rem;
+    color: #021db3;
+  }
+
   .image-container img {
     width: '200px';
     height: auto;
