@@ -143,6 +143,7 @@ nav ul li a:hover {
 
 footer ul li a{
     color: rgb(255, 255, 255);
+    transition: color 0.3s ease;
 }
 
 footer ul li a:hover {
@@ -151,6 +152,7 @@ footer ul li a:hover {
 
 main ul li a{
     color: #fdfdfd;
+    transition: color 0.3s ease;
 }
 
 main ul li a:hover {
