@@ -72,6 +72,8 @@ h4{
     gap: 30px;
     margin-bottom: 40px;
   }
+
+
 /*   
   .image-container {
     flex: 0 0 40%; /* Takes up 40% of the section width, doesn't grow or shrink */
@@ -102,7 +104,23 @@ h4{
   .text-container {
     flex: 1; /* Takes up remaining space */
   }
+
+  .text-container2 {
+    flex: 1; /* Takes up remaining space */
+    background-color: #090d91;
+  }
+
+ .text-container2 h2 {
+    margin-bottom: 15px;
+    color: #ffffff;
+    font-size: 24px;
+  }
   
+  .text-container2 p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+    color: #ffffff;
+  }
   .text-container h2 {
     margin-bottom: 15px;
     color: #021db3;
