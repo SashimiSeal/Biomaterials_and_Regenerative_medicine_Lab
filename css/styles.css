@@ -107,17 +107,20 @@ h4{
   }
 
   .text-container-intro {
+    padding-left: 0rem;
     flex: 1; /* Takes up remaining space */
     background-color: #090d91;
   }
 
  .text-container-intro h2 {
+    padding-left: 2rem;
     margin-bottom: 15px;
     color: #ffffff;
     font-size: 24px;
   }
   
   .text-container-intro p {
+    padding-left: 2rem;
     margin-bottom: 15px;
     line-height: 1.6;
     color: #ffffff;
