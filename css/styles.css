@@ -105,18 +105,18 @@ h4{
     flex: 1; /* Takes up remaining space */
   }
 
-  .text-container2 {
+  .text-container-intro {
     flex: 1; /* Takes up remaining space */
     background-color: #090d91;
   }
 
- .text-container2 h2 {
+ .text-container-intro h2 {
     margin-bottom: 15px;
     color: #ffffff;
     font-size: 24px;
   }
   
-  .text-container2 p {
+  .text-container-intro p {
     margin-bottom: 15px;
     line-height: 1.6;
     color: #ffffff;
