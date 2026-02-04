@@ -197,11 +197,8 @@ footer ul li a:hover {
 }
 
 main ul {
-    display: flex;
     list-style: none;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    gap: 3rem;
+   
 }
 
 main ul li a{
